@@ -2,8 +2,8 @@ package Controllers
 
 import (
 	"encoding/json"
-	"github.com/JuanEstebanAstaiza/Squirrel/Models"
-	"github.com/JuanEstebanAstaiza/Squirrel/Services"
+	"github.com/Pr3ston2035/Squire-Final-Him/Models"
+	"github.com/Pr3ston2035/Squire-Final-Him/Services"
 	"net/http"
 )
 
